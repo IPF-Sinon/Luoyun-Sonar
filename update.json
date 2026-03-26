@@ -1,0 +1,6 @@
+{
+  "version": "4.0",
+  "download_url": "https://raw.githubusercontent.com/IPF-Sinon/Luoyun-Sonar/main/luoyun_defender.sh",
+  "changelog": "新增联网更新功能、二进制检测、加密检测增强",
+  "force_update": false
+}
