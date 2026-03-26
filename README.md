@@ -49,7 +49,7 @@
 
 下载到手机：
 ```
-curl -O https://raw.githubusercontent.com/你的用户名/仓库名/main/luoyun_defender.sh
+curl -O https://raw.githubusercontent.com/IPF-Sinon/Luoyun-Sonar/main/luoyun_defender.sh
 ```
 或通过MT管理器直接复制。
 
